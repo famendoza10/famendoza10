@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @famendoza10
 - 👀 I’m interested in improving my programing and getting involved in some cool projects
-- 🌱 I’m currently learning python, R and SQL
+- 🌱 I’m currently learning python, R, SQL and remote sensing
 - 💞️ I’m looking to collaborate on anything(haha)
 - 📫 How to reach me famendoza@gmail.com
 
